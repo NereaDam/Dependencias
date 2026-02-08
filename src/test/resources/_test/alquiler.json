@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "socio": { "dni": "111A", "nombre": "Juan" },
+    "pelicula": { "id": 10, "titulo": "Matrix", "disponible": false },
+    "fechaAlquiler": "2024-01-01",
+    "fechaDevolucion": null
+  },
+  {
+    "id": 2,
+    "socio": { "dni": "222B", "nombre": "Ana" },
+    "pelicula": { "id": 11, "titulo": "Avatar", "disponible": false },
+    "fechaAlquiler": "2024-01-02",
+    "fechaDevolucion": null
+  }
+]
